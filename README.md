@@ -1,4 +1,7 @@
 # Key2Ride - A Car Rental System
+
+![Key2Ride_Logo](Logo.png)
+
 ## Introduction
 
 Key2Ride is a Java-based Car Rental System designed to automate and simplify the process of renting vehicles.
